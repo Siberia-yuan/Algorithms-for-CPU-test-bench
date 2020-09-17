@@ -1,2 +1,2 @@
 # Algorithms-for-CPU-test-bench
-See the GeneralDoc.docx to check for the details
+Read the GeneralDoc.docx to check for the details.
